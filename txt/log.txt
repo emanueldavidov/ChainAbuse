@@ -1,0 +1,140 @@
+16/01/25 12:11:33 Scan completed successfully.
+
+16/01/25 12:14:26 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 12:14:26 Scan completed successfully.
+
+16/01/25 12:16:51 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 12:16:51 Scan completed successfully.
+
+16/01/25 12:19:07 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 12:19:07 Scan completed successfully.
+
+16/01/25 12:20:22 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 12:20:35 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 12:20:43 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 12:20:58 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 12:22:16 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 12:23:10 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 12:24:08 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 12:32:41 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 12:34:21 Scan completed successfully.
+
+16/01/25 15:20:24 Scan completed successfully.
+
+16/01/25 15:28:45 Scan completed successfully.
+
+16/01/25 15:36:03 Scan failed: Invalid Api Token. Check your token
+
+16/01/25 15:38:38 Scan completed successfully.
+
+16/01/25 22:44:37 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 22:44:39 Scan failed: Scan failed: Too many requests. Please try again later.
+
+16/01/25 22:44:54 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 22:44:56 Scan failed: Scan failed: Too many requests. Please try again later.
+
+16/01/25 22:45:05 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 22:45:09 Scan failed: Scan failed: Too many requests. Please try again later.
+
+16/01/25 22:46:08 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 22:46:10 Scan failed: Scan failed: Too many requests. Create New API token.
+
+16/01/25 22:47:17 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 22:47:22 Scan failed: Scan failed: Too many requests. Create New API token.
+
+16/01/25 22:49:09 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 22:49:10 Scan failed: Scan failed: Too many requests. Create New API token.
+
+16/01/25 22:49:23 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 22:49:24 Scan failed: Scan failed: Too many requests. Create New API token.
+
+16/01/25 22:49:48 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 22:50:29 Scan failed: Invalid Api Token. Check your token
+
+16/01/25 23:31:23 Scan failed: Invalid Api Token. Check your token
+
+16/01/25 23:31:56 Scan failed: Too many requests. Please wait or use a new API token.
+
+16/01/25 23:33:50 Scan completed successfully.
+
+16/01/25 23:35:53 Scan failed: Invalid Api Token. Check your token
+
+16/01/25 23:37:30 Scan completed successfully.
+
+16/01/25 23:40:37 Scan completed successfully.
+
+16/01/25 23:42:08 Scan completed successfully.
+
+16/01/25 23:43:18 Scan completed successfully.
+
+16/01/25 23:43:44 Scan completed successfully.
+
+16/01/25 23:45:26 Scan completed successfully.
+
+16/01/25 23:46:47 Scan completed successfully.
+
+16/01/25 23:49:06 Scan completed successfully.
+
+16/01/25 23:51:01 Scan completed successfully.
+
+16/01/25 23:54:57 Scan failed: Too many requests. Please wait or use a new API token.
+
+17/01/25 00:08:08 Scan completed successfully.
+
+17/01/25 11:36:27 Scan completed successfully.
+
+17/01/25 11:43:56 Scan completed successfully.
+
+17/01/25 11:44:45 Scan failed: Invalid Api Token. Check your token
+
+17/01/25 12:04:45 Scan completed successfully.
+
+17/01/25 12:05:23 Scan completed successfully.
+
+17/01/25 12:09:06 Scan completed successfully.
+
+17/01/25 12:11:11 Scan completed successfully.
+
+17/01/25 12:13:51 Scan completed successfully.
+
+17/01/25 12:16:14 Scan completed successfully.
+
+17/01/25 12:16:33 Scan completed successfully.
+
+31/01/25 13:39:42 Scan failed: Save Report
+
+31/01/25 13:39:55 Scan failed: Save Report
+
+31/01/25 13:44:09 Scan failed: Save Report
+
+31/01/25 13:45:18 Scan failed: Invalid Api Token. Check your token
+
+31/01/25 13:45:45 Scan completed successfully.
+
+31/01/25 13:47:22 Scan completed successfully.
+
+31/01/25 13:48:54 Scan completed successfully.
+
+31/01/25 13:49:01 Scan completed successfully.
+
+31/01/25 13:49:05 Scan failed: Too many requests. Please wait or use a new API token.
+
